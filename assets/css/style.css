@@ -1,0 +1,27 @@
+body {
+    background-color: #3d2b42;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+section#login {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.login-form {
+    width: 41vw;
+    height: 43vh;
+    background-color: rgba(52, 11, 63, 0.63);
+    padding: 3%;
+    border-radius: 3%;
+}
+
+.box-table {
+    background-color:rgba(52, 11, 63, 0.63);
+    padding: 3%;
+    border-radius: 3%;
+}
